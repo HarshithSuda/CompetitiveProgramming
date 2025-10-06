@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void recPermute(int index,string &s,vector<string>&ans){
+	if(index==s.size()){
+		ans.push_back(s);
+		return;
+	}
+
+	for(int i=index;i<s.size();i++){
+		swap(s[i],s[index]);
+		recPermute(index+1,s,ans);
+		swap(s[i],s[index]);
+	}
+}
+
+void AllPermutationsOfString(string s){
+	vector<string>ans;
+
+	recPermute(0,s,ans);
+	sort(ans.begin(),ans.end());
+	return ans;
+}
+
+int main(){
+	cin.tie(0);
+	ios_base::sync_with_stdio(0);
+	int t;
+	cin>>t;
+	while(t--){
+		solve();
+	}
+	return 0;
+}

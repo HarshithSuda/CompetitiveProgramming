@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "Student",
+            "username": "postgres",
+            "connectionTimeout": 30,
+            "password": "postgres"
+        }
+    ]
+}

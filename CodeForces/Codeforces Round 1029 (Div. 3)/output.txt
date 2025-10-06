@@ -1,0 +1,30 @@
+Harshith Suda  
+B.Tech, Computer Science and Engineering  
+National Institute of Technology, Andhra Pradesh  
+Email: harshithsuda04@gmail.com  
+Phone: +91-8978808866  
+Date: 8 July 2025
+
+Hiring Committee  
+Google LLC  
+Bengaluru, India  
+
+Dear Hiring Committee,
+
+I am writing to express my enthusiastic interest in the Software Engineering Internship at Google. As a third-year B.Tech student, I am deeply interested in competitive programming, machine learning, and artificial general intelligence. I actively participate on coding platforms LeetCode and Codeforces. I also took the initiative to bring together fellow competitive programmers in my college to form a focused group dedicated to preparing for the ACM-ICPC contest.
+
+I also have a strong academic and research curiosity in machine learning, neural networks, and most importantly, artificial general intelligence. I regularly read research papers and technical articles to stay ahead. Two papers that deeply influenced me are “Attention is All You Need” and the original ResNet-34 paper (on convolutional neural networks).
+
+My intellectual idols include Demis Hassabis (CEO of Google DeepMind) and Yann LeCun (Chief AI Scientist at Meta), whose visionary contributions to AI and AGI are what inspired me to explore the field in depth. I am passionate about the future of AGI and aspire to contribute to this field both as a researcher and an engineer.
+
+In terms of practical work, I have recently implemented a Facial Recognition Attendance Tracking Web Application. I implemented real-time face detection using OpenCV's facial detector (Haar Cascade Classifier) and used ResNet-34 for 128-dimensional facial embeddings. The project combines deep learning, Flask-based backend APIs, and PostgreSQL, and is intended for real-time classroom deployment to reduce the time required for taking attendance. This project helped me grow as a project developer.
+
+I am highly proficient in C++, particularly in system-level problem solving and debugging. I am a critical thinker and a collaborative team leader. I enjoy working in fast-paced and intellectually challenging environments.
+
+
+What excites me most about Google is its influence on technology and global-scale engineering. It has revolutionized the entire 21st century, and I admire its culture of innovation and purpose-driven technology. It is making giant leaps in the field of AI and AGI by releasing top models like Gemini. I deeply admire the progress it has made in AI by creating AlphaGo (the first AI to beat a world champion Go player) and the Attention is All You Need paper (which has revolutionized LLMs). I am confident that my background, skills, and mindset align well with Google’s mission, and I would be honored to contribute to your team.
+
+Thank you for considering my application. Please find my resume and transcript attached. I look forward to the opportunity to speak with you further.
+
+Sincerely,  
+Harshith Suda
