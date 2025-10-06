@@ -2,10 +2,12 @@ This repository is a comprehensive archive of my C++ solutions from my journey i
 
 It features organized code submissions across various online judges and practice platforms, showcasing my progress in algorithms, data structures, and problem-solving techniques.
 
-CodeForces/: Solutions for Codeforces rounds.
+CP-31: CP-31 Sheet by Priyansh Agarwal.
 
-LeetCode/: LeetCode daily challenges and study plan solutions.
+CodeForces: Solutions for Codeforces rounds.
 
-GeeksForGeeks-DSA Practice Sheets/: Core Data Structures and Algorithms practice from GeekForGeeks Website.
+LeetCode: LeetCode daily challenges and study plan solutions.
 
-S AND F HALIM-CP TEXTBOOK/: Solutions to exercises from the definitive CP textbook.
+GeeksForGeeks-DSA Practice Sheets: Core Data Structures and Algorithms practice from GeekForGeeks Website.
+
+S AND F HALIM-CP TEXTBOOK: Solutions to exercises from the definitive CP textbook.
