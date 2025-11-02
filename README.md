@@ -1,19 +1,18 @@
-This repository is a comprehensive archive of my C++ solutions from my journey in competitive programming.
+**This repository is a comprehensive archive of my C++ solutions from my journey in competitive programming.**
 
-It features organized code submissions across various online judges and practice platforms, showcasing my progress in algorithms, data structures, and problem-solving techniques.
+**It features organized code submissions across various online judges and practice platforms, showcasing my progress in algorithms, data structures, and problem-solving techniques.**
 
-CP-31: CP-31 Sheet by Priyansh Agarwal.
+**CP-31: CP-31 Sheet by Priyansh Agarwal.**
+**CodeForces: Solutions for Codeforces rounds.**
 
-CodeForces: Solutions for Codeforces rounds.
+**LeetCode: LeetCode daily challenges and study plan solutions.**
 
-LeetCode: LeetCode daily challenges and study plan solutions.
+**GeeksForGeeks-DSA Practice Sheets: Core Data Structures and Algorithms practice from GeekForGeeks Website.**
 
-GeeksForGeeks-DSA Practice Sheets: Core Data Structures and Algorithms practice from GeekForGeeks Website.
-
-S AND F HALIM-CP TEXTBOOK: Solutions to exercises from the definitive CP textbook.
+__S AND F HALIM-CP TEXTBOOK: Solutions to exercises from the definitive CP textbook.__
 
 
-1.A Code Snippet of the UVA 11195.Another N-Queen Problem
+**1.A Code Snippet of the UVA 11195.Another N-Queen Problem**
 
 ```cpp
 #include<bits/stdc++.h>
@@ -90,7 +89,7 @@ int main(){
 ```
 
 
-2.Code for LeetCode-714. Best Time to Buy and Sell Stock with Transaction Fee
+**2.Code for LeetCode-714. Best Time to Buy and Sell Stock with Transaction Fee**
 
 ```cpp
 #include<bits/stdc++.h>
